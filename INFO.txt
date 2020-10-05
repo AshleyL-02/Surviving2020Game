@@ -1,0 +1,52 @@
+Surviving 2020 is a game created during project week of Google's 2020 CSSI Summer Program.
+
+We hope you enjoy!
+
+CONTROLS:
+
+  WASD to move
+  E to interact or talk
+  Spacebar to shoot
+  
+  Turn off capslock
+  
+
+CREDITS:
+
+This game is dedicated to all those who have lost their lives in 2020 battling Covid-19.
+You will forever be missed and your memories cherished in the hearts of your loved ones.
+Rest In Peace <3
+
+PRODUCTION COMPANY      Brown Bananas
+GAME TITLE              Surviving 2020
+LEAD CAST               Mario-Pants
+SUPPORTING CAST         Mr. Lysol
+PRODUCTION AND SET      Kevin Granados
+CASTING DIRECTOR        Ashley Luty
+WRITER                  Aqueena Alexander
+
+Special thanks to Google and the CSSI team for giving us this amazing opportunity. We could not have done it without you.
+Shoutout to Cohort-25 and all of our Googlers: Logan, Thomas, Mark, Lauren, Andy, Dean.
+Thank you to the behind-the-scene workers Thiney and Kelsey.
+
+This game is made for entertainment purposes only and is not meant to undermine the severity of Covid-19 in any way. 
+It promotes the superheroes of 2020: the front-line workers, teachers, medical staff and everyone else who have risked their lives so that others can be safe. 
+We are forever grateful.
+
+
+WITH ASSETS FROM...
+
+Sound effects:    https://kenney.nl/assets/rpg-audio
+Background music: https://patrickdearteaga.com/arcade-music/, 
+                  https://www.bensound.com/royalty-free-music/track/the-elevator-bossa-nova 
+                  https://www.dl-sounds.com/royalty-free/defense-line/
+                  https://www.dl-sounds.com/royalty-free/power-bots-loop/
+                  https://www.youtube.com/watch?v=nEax698CQiE
+                  https://www.epidemicsound.com/track/0fh99lVLJB
+                  
+                  
+WITH LIBRARIES FROM:
+  p5 and p5.sound: https://p5js.org/libraries/
+  p5.play (by Molleindustria): https://molleindustria.github.io/p5.play/
+  p5 Scene Manager (by Marian Veteanu): https://github.com/mveteanu/p5.SceneManager
+  
