@@ -1,6 +1,9 @@
-Welcome to CSSI-Online
-======================
+# Surviving 2020 Game
 
-This is the base template which already includes the `p5.js` library, the `p5.collide2d.js` library, and a connected `script.js`.
+This game was created as a final project for Google's 2020 Computer Science Summer Institute.
 
-Remember that if you need the collide library in your project, be sure to uncomment it in the `index.html`.
+To play the game: https://surviving2020cssi.glitch.me/
+
+The game is written in JavaScript and utilizes p5.js, p5.play, and p5 Scene Manager libraries.
+
+Go to INFO.txt for more information on the game, including controls.
