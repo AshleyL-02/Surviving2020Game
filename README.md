@@ -1,8 +1,10 @@
 # Surviving 2020 Game
 
-This game was created as a final project for Google's 2020 Computer Science Summer Institute.
+This game was created as a final project for Google's 2020 Computer Science Summer Institute, a 4-week intensive
+computer science summer program taught by Google engineers.
 
 To play the game: https://surviving2020cssi.glitch.me/
+
 
 The game is written in JavaScript and utilizes p5.js, p5.play, and p5 Scene Manager libraries.
 
