@@ -45,7 +45,7 @@ Background music: https://patrickdearteaga.com/arcade-music/,
                   https://www.epidemicsound.com/track/0fh99lVLJB
                   
                   
-WITH LIBRARIES FROM:
+WITH LIBRARIES FROM...
   p5 and p5.sound: https://p5js.org/libraries/
   p5.play (by Molleindustria): https://molleindustria.github.io/p5.play/
   p5 Scene Manager (by Marian Veteanu): https://github.com/mveteanu/p5.SceneManager
