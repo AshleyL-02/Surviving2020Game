@@ -7,6 +7,8 @@ Hope you enjoy!
 
 To play the game: https://surviving2020cssi.glitch.me/
 
+Glitch code: https://glitch.com/edit/#!/surviving2020cssi
+
 This game is written in JavaScript and utilizes p5.js, p5.sound.js p5.play, and p5 Scene Manager libraries.
 
 Go to INFO.txt for more information on the game.
