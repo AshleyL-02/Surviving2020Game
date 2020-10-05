@@ -14,6 +14,6 @@ Go to INFO.txt for more information on the game.
 _______________________
 
 Division of tasks:
-- Ashley: scene management + non-level scenes, dialogue + game objects
+- Ashley: scene management + non-level scenes, game interactions
 - Kevin: levels
 - Aqueena: player, enemy
