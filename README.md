@@ -1,9 +1,10 @@
 # Surviving 2020 Game
 
 Surviving 2020 was created during project week of Google's 2020 Computer Science Summer Institute, a 4-week intensive
-computer science summer program taught by Google engineers. The game is a classic 2D platformer with a touch of comedy, and 
-sports exciting features like wacky characters, multiple endings, scary enemies, and tricky platforming for two whole levels!
-Hope you enjoy!
+computer science summer program taught by Google engineers. 
+
+The game is a classic 2D platformer with a touch of comedy, and sports exciting features like wacky characters, 
+multiple endings, spooky enemies, and tricky platforming for two whole levels!
 
 To play the game: https://surviving2020cssi.glitch.me/
 
