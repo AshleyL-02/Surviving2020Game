@@ -16,4 +16,4 @@ _______________________
 Division of tasks:
 - Ashley: scene management + non-level scenes, dialogue, game objects
 - Kevin: levels
-- Aqueena: player, enemy
+- Aqueena: player, projectiles, enemy
